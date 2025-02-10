@@ -29,6 +29,7 @@ tokenizer = AutoTokenizer.from_pretrained("xrxing/EfficientLLM-469M", use_fast=F
 
 # Load the model
 model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_remote_code=True)
+```
 
 ## 3. ToDo List
 
