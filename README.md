@@ -28,7 +28,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 tokenizer = AutoTokenizer.from_pretrained("xrxing/EfficientLLM-469M", use_fast=False)
 
 # Load the model
-model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_remote_code=True)
+model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_remote_code=True, attn_implementation="flash_attention_2")
 ```
 
 ## 3. ToDo List
