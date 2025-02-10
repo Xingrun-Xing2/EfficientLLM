@@ -1,4 +1,4 @@
-# EfficientLLM: Scalable Pruning-Aware Pretraining
+# EfficientLLM: 100M ~ 1B
 
 This repository contains the training code and models of EfficientLLM introduced in our work: "EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models".
 
