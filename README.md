@@ -33,11 +33,11 @@ model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_r
 
 ## 3. ToDo List
 
-- Release technical report
-- Release Huggingface models
-- Evalation code
-- Pretraining code
-- Demos and applications
+- [x] Release technical report
+- [x] Release Huggingface models
+- [ ] Evaluation code
+- [ ] Pretraining code
+- [ ] Demos and applications
 
 
 
