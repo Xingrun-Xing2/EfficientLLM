@@ -49,5 +49,21 @@ model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_r
 - [ ] Demos and applications
 
 
+## Contact
 
+xingrun xing, CASIA, BAAI (xingxingrun2023@ia.ac.cn)
+
+## Citation
+If you find this work useful for your research, please consider citing:
+```
+@misc{xing2025efficientllm,
+      title={EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models}, 
+      author={Xingrun Xing and Zheng Liu and Shitao Xiao and Boyan Gao and Yiming Liang and Wanpeng Zhang and Haokun Lin and Guoqi Li and Jiajun Zhang},
+      year={2025},
+      eprint={2502.06663},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.06663}, 
+}
+```
 
