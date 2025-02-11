@@ -32,7 +32,13 @@ Modern large language models (LLMs) driven by scaling laws, achieve intelligence
 <img width=98% src="https://github.com/Xingrun-Xing2/EfficientLLM/blob/main/imgs/table2.PNG"/>
 </div>
 
-## 3. Load Huggingface Models
+## 3. Auto-Designed Architecture
+
+<div align=center>
+<img width=98% src="https://github.com/Xingrun-Xing2/EfficientLLM/blob/main/imgs/figa0.png"/>
+</div>
+
+## 4. Load Huggingface Models
 
 To load a pre-trained model and tokenizer, you can use the following code snippet:
 
@@ -46,7 +52,7 @@ tokenizer = AutoTokenizer.from_pretrained("xrxing/EfficientLLM-469M", use_fast=F
 model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_remote_code=True, attn_implementation="flash_attention_2")
 ```
 
-## 4. ToDo List
+## 5. ToDo List
 
 - [x] Release technical report
 - [x] Release Huggingface models
