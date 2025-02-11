@@ -26,8 +26,13 @@ Modern large language models (LLMs) driven by scaling laws, achieve intelligence
 
 **Figure 1**: An overview of pruning-aware pretraining. (a) Training loop includes the joint saliency detection and weight optimizing, pruning type selection from pruning space, and second-order weight updating. (b) Traditional post-training pruning can be embedded in the training loop to scale up. (c) Continuous model size compression in pretraining.
 
+## 2. Results on Zero-shot Benchmarks
 
-## 2. Load Huggingface Models
+<div align=center>
+<img width=98% src="https://github.com/Xingrun-Xing2/EfficientLLM/blob/main/imgs/table2.PNG"/>
+</div>
+
+## 3. Load Huggingface Models
 
 To load a pre-trained model and tokenizer, you can use the following code snippet:
 
@@ -41,7 +46,7 @@ tokenizer = AutoTokenizer.from_pretrained("xrxing/EfficientLLM-469M", use_fast=F
 model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_remote_code=True, attn_implementation="flash_attention_2")
 ```
 
-## 3. ToDo List
+## 4. ToDo List
 
 - [x] Release technical report
 - [x] Release Huggingface models
