@@ -13,7 +13,7 @@
 This repository contains the training code and models of EfficientLLM introduced in our work: ["EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models"](https://arxiv.org/abs/2502.06663).
 
 ## News
-- Feb 10, 2025: 🚀 100M ~ 1B models are publicly available on [HuggingFace](https://huggingface.co/collections/xrxing/efficientllm-pruning-aware-pretraining-67a8ecc6a49580b647a6184f).
+- Feb 10, 2025: 🚀 100M ~ 1B edge models are publicly available on [HuggingFace](https://huggingface.co/collections/xrxing/efficientllm-pruning-aware-pretraining-67a8ecc6a49580b647a6184f).
 
 
 ## 1. Overview
