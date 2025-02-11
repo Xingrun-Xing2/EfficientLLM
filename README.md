@@ -1,6 +1,15 @@
 # EfficientLLM: 100M ~ 1B
 
-This repository contains the training code and models of EfficientLLM introduced in our work: "EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models".
+<p align="center">
+    <a href="https://arxiv.org/abs/2502.06663">
+            <img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2409.11340-b31b1b.svg">
+    </a>
+    <a href="https://huggingface.co/collections/xrxing/efficientllm-pruning-aware-pretraining-67a8ecc6a49580b647a6184f">
+        <img alt="Build" src="https://img.shields.io/badge/HF%20Model-🤗-yellow">
+    </a>
+</p>
+
+This repository contains the training code and models of EfficientLLM introduced in our work: ["EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models"](https://arxiv.org/abs/2502.06663).
 
 ## News
 - Feb 10, 2025: 🚀 EfficientLLM models are publicly available on [HuggingFace](https://huggingface.co/collections/xrxing/efficientllm-pruning-aware-pretraining-67a8ecc6a49580b647a6184f).
