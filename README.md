@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://arxiv.org/abs/2502.06663">
-            <img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2409.11340-b31b1b.svg">
+            <img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2502.06663-b31b1b.svg">
     </a>
     <a href="https://huggingface.co/collections/xrxing/efficientllm-pruning-aware-pretraining-67a8ecc6a49580b647a6184f">
         <img alt="Build" src="https://img.shields.io/badge/HF%20Model-🤗-yellow">
