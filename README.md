@@ -57,7 +57,7 @@ model = AutoModelForCausalLM.from_pretrained("xrxing/EfficientLLM-469M", trust_r
 
 ## Contact
 
-xingrun xing, CASIA, BAAI (xingxingrun2023@ia.ac.cn)
+Xingrun Xing, CASIA, BAAI (xingxingrun2023@ia.ac.cn)
 
 ## Citation
 If you find this work useful for your research, please consider citing:
