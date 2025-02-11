@@ -24,7 +24,7 @@ Modern large language models (LLMs) driven by scaling laws, achieve intelligence
 <img width=90% src="https://github.com/Xingrun-Xing2/EfficientLLM/blob/main/imgs/fig2.png"/>
 </div>
 
-**Figure 1**: An overview of pruning-aware pretraining. (a) Training loop includes the joint saliency detection and weight optimizing, pruning type selection from pruning space, and second-order weight updating. (b) Traditional post-training pruning can be embedded in the training loop to scale up. (c) Continuous model size compression in pretraining.
+**Figure 1**: Pruning-aware pretraining. (a) Training loop includes the joint saliency detection and weight optimizing, pruning type selection from pruning space, and second-order weight updating. (b) Traditional post-training pruning can be embedded in the training loop to scale up. (c) Continuous model size compression in pretraining.
 
 ## 2. Results on Zero-shot Benchmarks
 
