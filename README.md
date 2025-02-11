@@ -1,4 +1,5 @@
-# EfficientLLM: 100M ~ 1B
+<h1 align="center">EfficientLLM: Pruning-Aware Pretraining</h1>
+
 
 <p align="center">
     <a href="https://arxiv.org/abs/2502.06663">
